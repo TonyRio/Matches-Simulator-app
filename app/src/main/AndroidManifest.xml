@@ -14,7 +14,7 @@
         android:theme="@style/Theme.MatchesSimulatorapp"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="me.dio.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
